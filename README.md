@@ -1,5 +1,7 @@
 # mylearningprogress.github.io
-My learning progress on web development
+
+My learning progress on web development from Coursera
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
