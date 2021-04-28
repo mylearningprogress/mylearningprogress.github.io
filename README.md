@@ -8,6 +8,6 @@ My learning progress on web development
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <a href="assignment1.html">My Assignment one</a>
+  <a href="https://mylearningprogress.github.io/assignmentone/assignment1.html">My Assignment one</a>
 </body>
 </html>
