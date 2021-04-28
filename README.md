@@ -1,6 +1,5 @@
 # mylearningprogress.github.io
 My learning progress on web development
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
